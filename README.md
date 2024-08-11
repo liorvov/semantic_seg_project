@@ -1,4 +1,4 @@
-# semantic segmentation project
+# Semantic segmentation using deep learning
 
 The project dealt with the implementation of semantic segmentation of images using deep learning . The goal of the project was to implement a neural network that performs the segmentation, to write Python code that performs the task and to improve performance by changing hyperparameters or other things (such as adding a spatial LSTM layer as we did).
 
