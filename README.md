@@ -17,8 +17,8 @@ Adding the extended LSTM layer turned out to be successful, and can be used to i
 # What inside?
 
 We have 2 folders:
-- python: all python files, including main.py.
-- plots: all plots, for 3 examined networks, including accuracy & loss curves, confusion matrixes segmented images and aditional analysys.
+- **python:** all python files, including main.py.
+- **plots:** all plots, for 3 examined networks, including accuracy & loss curves, confusion matrixes segmented images and aditional analysys.
 
 # How to run?
 1. In the beginning of main.py, chnage the necessary variables according to desired settings.
