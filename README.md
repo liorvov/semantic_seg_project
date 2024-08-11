@@ -14,13 +14,13 @@ Adding the extended LSTM layer turned out to be successful, and can be used to i
 
 ![image](https://github.com/user-attachments/assets/2e9438fd-cd75-46bd-87ab-ce4aa21c1b91)
 
-# What inside?
+## What inside?
 
 We have 2 folders:
 - **python:** all python files, including main.py.
 - **plots:** all plots, for 3 examined networks, including accuracy & loss curves, confusion matrixes segmented images and aditional analysys.
 
-# How to run?
+## How to run?
 1. In the beginning of main.py, chnage the necessary variables according to desired settings.
    Including:
    Choise of NN - ResNet50, EfficientNetv2, EfficientNetB4
